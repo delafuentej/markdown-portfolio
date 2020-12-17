@@ -1,5 +1,5 @@
 ## Skills:
-    - __Eigeninitiative__.
-    - __Authentizität__.
-    - __Selbstreflexion__.
+    - ***Eigeninitiative***.
+    - ***Authentizität***.
+    - ***Selbstreflexion***.
     
