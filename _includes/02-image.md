@@ -1,1 +1,1 @@
-[bild](img src:"home/Desktop/foto/jesus.jpg")
+![bild](/home/Desktop/foto/jesus.jpg)
