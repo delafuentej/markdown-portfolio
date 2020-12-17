@@ -1,0 +1,3 @@
+- Freundschaft.
+- Wissen.
+- Essen
